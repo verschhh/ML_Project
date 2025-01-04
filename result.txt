@@ -1,0 +1,11 @@
+Optimized XGBoost Accuracy: 0.3596033402922756
+Optimized Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.35      0.93      0.51      4030
+           1       0.37      0.06      0.11      3929
+           2       0.56      0.04      0.08      3537
+
+    accuracy                           0.36     11496
+   macro avg       0.43      0.34      0.23     11496
+weighted avg       0.42      0.36      0.24     11496
